@@ -13,7 +13,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -29,7 +29,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/eWrMCkI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Ryu, one of our customers, is opening a new ticket under the Business Critical Outage help topic. The issue reported is that the CRM software is down. 
+Jay, one of our customers, is opening a new ticket under the Report a Problem help topic. The issue reported is that they are unable to login to their laptop. 
 </p>
 <br />
 
@@ -45,7 +45,7 @@ Agents can view live tickets in the Agent Panel. Queue managers will assign prio
 <img src="https://i.imgur.com/mdzaqmY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this example, the ticket's priority is set to Emergency due to its potential impact on a critical business area. The SLA plan has been updated accordingly, and the ticket is assigned to a top-level technician. In some ticketing systems, customers can set their own SLA plans.
+In this example, the ticket's priority is set to High due to its potential impact on user's productivity. The SLA plan has been updated accordingly, and the ticket is being handled by Mohammed. In some ticketing systems, customers can set their own SLA plans.
 </p>
 <br />
 
@@ -53,6 +53,6 @@ In this example, the ticket's priority is set to Emergency due to its potential 
 <img src="https://i.imgur.com/tqu3qo7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The ticket was closed after identifying the root cause as personal networking issues on the customer’s end. The status was set to Resolved, and an internal note was added to inform Steve Lang that the customer was upset. It emphasized handling the situation with urgency and empathy during follow-up.
+The ticket was closed after resetting the user's password through admin console. Checked logs and confirmed user was able to log in successfully.
 </p>
 <br />
